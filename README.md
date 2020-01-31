@@ -1,2 +1,4 @@
 # test-application
-This is a test aplpication to host in GitHub
+This is a test application to host in GitHub.
+
+Sammantha told me to do this.
